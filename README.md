@@ -3,12 +3,6 @@
   :rocket: Project used to train complex state objects, how to handle different state hooks and render things based on the state.
 </div>
 
-<div align="center">
-  <sub>Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
-</div>
-
 ### Web Screenshot
 <div>
    <img src="https://user-images.githubusercontent.com/26275918/93021639-fed56280-f5e3-11ea-9b5b-c18e67dce64c.png" width="500px">
